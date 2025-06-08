@@ -1,0 +1,32 @@
+[
+  {
+    "chatId": 1,
+    "message": "Hello",
+    "time": "12:00 AM",
+    "sender": 1
+  },
+  {
+    "chatId": 2,
+    "message": "Hello",
+    "time": "12:01 AM",
+    "sender": 2
+  },
+  {
+    "chatId": 3,
+    "message": "Time To Stride",
+    "time": "12:04 AM",
+    "sender": 1
+  },
+  {
+    "chatId": 4,
+    "message": "Sounds Good",
+    "time": "12:10 AM",
+    "sender": 1
+  },
+  {
+    "chatId": 5,
+    "message": "Bye",
+    "time": "12:15 AM",
+    "sender": 2
+  }
+]
